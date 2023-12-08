@@ -1,0 +1,39 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Node modules
+node_modules/
+
+# Xcode
+.DS_Store
+ios/build/
+ios/Pods/
+ios/*.xcworkspace/
+
+# Android
+android/build/
+android/app/build/
+android/gradle/
+
+# macOS
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
+.vscode/
+
+# Gradle
+.gradle/
+build/
+
+# Other
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.swp
+*.DS_Store
